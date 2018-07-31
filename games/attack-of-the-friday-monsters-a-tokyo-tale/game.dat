@@ -1,0 +1,10 @@
+title = "Attack of the Friday Monsters! A Tokyo Tale"
+description = "Attack of the Friday Monsters! A Tokyo Tale is a life-simulation game developed and published by Level-5. It is also one of three titles present in the Guild02 Compilation."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000000E7600"
+region = "usa"
+release_date = "2013-07-18"
